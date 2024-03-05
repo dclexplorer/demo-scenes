@@ -1,0 +1,28 @@
+{
+  "folders": [
+    { "path": "basic-interactions" },
+    { "path": "boids" },
+    { "path": "cannon-car-example-scene" },
+    { "path": "coin-pickup" },
+    { "path": "cube-wave-16x16" },
+    { "path": "cube-wave-32x32" },
+    { "path": "dance-floor" },
+    { "path": "dbmonster" },
+    { "path": "droid-scene" },
+    { "path": "gnark" },
+    { "path": "hypno-wheels" },
+    { "path": "inflatable-punch-bag" },
+    { "path": "item-pickup" },
+    { "path": "laser-ray-casting" },
+    { "path": "media-streaming" },
+    { "path": "moving-platforms" },
+    { "path": "open-door" },
+    { "path": "party-time" },
+    { "path": "random-noise-movement" },
+    { "path": "swimming-shark" },
+    { "path": "translocator" },
+    { "path": "ui-canvas-information" },
+    { "path": "uv-map" },
+    { "path": "validate-player-authenticity" }
+  ]
+}
