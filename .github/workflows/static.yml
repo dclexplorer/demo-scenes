@@ -36,21 +36,18 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18.x
-      - name: build all (test)
-        run: bash build.sh
+      - name: install decentraland
+        run: npm i -g decentraland@latest
+      - name: install dependencies
+        run: npm i
+      - name: build
+        run: npm run build
       - name: export-static
         run: npm run export-static
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./static
-      - name: Publish
-        uses: menduz/oddish-action@master
-        with:
-          registry-url: "https://registry.npmjs.org"
-          access: public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
