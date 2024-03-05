@@ -6,7 +6,7 @@
     "build": "sdk-commands build --skip-install",
     "deploy": "sdk-commands deploy",
     "start": "sdk-commands start --skip-build -w",
-    "export-static": "sdk-commands export-static --destination static/ --realmName scene-explorer-tests --baseUrl https://decentraland.github.io/scene-explorer-tests/ --commsAdapter ws-room:ws-room-service.decentraland.org/rooms/scene-explorer-tests",
+    "export-static": "sdk-commands export-static --destination static/ --realmName scene-explorer-tests --baseUrl https://dclexplorer.github.io/alternative-goerli-plaza/ --commsAdapter ws-room:ws-room-service.decentraland.org/rooms/alternative-goerli-plaza",
     "sync": "syncpack format --config .syncpackrc.json  --source \"*/package.json\" --source package.json",
     "test-sync": "syncpack list-mismatches --config .syncpackrc.json  --source \"*/package.json\" --source package.json"
   },
