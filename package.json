@@ -58,6 +58,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdilauro/alternative-goerli-plaza"
+    "url": "git+https://github.com/sdilauro/alternative-goerli-plaza.git"
   }
 }
