@@ -1,5 +1,5 @@
 {
-  "name": "@dcl/alternative-goerli-plaza",
+  "name": "@dclexplorer/demo-scenes",
   "version": "1.0.0",
   "description": "Goerli Plaza tested scenes on alternative explorers",
   "scripts": {
@@ -58,6 +58,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdilauro/alternative-goerli-plaza.git"
+    "url": "git+https://github.com/dclexplorer/demo-scenes.git"
   }
 }
