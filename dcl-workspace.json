@@ -3,6 +3,7 @@
     { "path": "basic-interactions" },
     { "path": "boids" },
     { "path": "cannon-car-example-scene" },
+    { "path": "cannon-example-scene" },
     { "path": "coin-pickup" },
     { "path": "cube-wave-16x16" },
     { "path": "cube-wave-32x32" },
@@ -13,16 +14,24 @@
     { "path": "hypno-wheels" },
     { "path": "inflatable-punch-bag" },
     { "path": "item-pickup" },
+    { "path": "jukebox" },
     { "path": "laser-ray-casting" },
+    { "path": "light-bounce-puzzle" },
     { "path": "media-streaming" },
     { "path": "moving-platforms" },
     { "path": "open-door" },
     { "path": "party-time" },
+    { "path": "pixel-canvas-api" },
     { "path": "random-noise-movement" },
+    { "path": "simple-nft" },
+    { "path": "smoke" },
     { "path": "swimming-shark" },
+    { "path": "testing-gallery" },
+    { "path": "tin-can-alley" },
     { "path": "translocator" },
     { "path": "ui-canvas-information" },
     { "path": "uv-map" },
-    { "path": "validate-player-authenticity" }
+    { "path": "validate-player-authenticity" },
+    { "path": "weather-simulation" }
   ]
 }
